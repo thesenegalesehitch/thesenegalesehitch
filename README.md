@@ -1,6 +1,6 @@
 # Alexandre Albert Ndour
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur passionné originaire du Sénégal, spécialisé dans la création de solutions innovantes et efficaces.
+Bienvenue sur mon profil GitHub ! Je suis un développeur back-end passionné originaire du Sénégal, spécialisé dans la création de solutions innovantes et efficaces.
 
 ## Contact
 
@@ -16,7 +16,24 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné originaire 
 
 ## Compétences
 
-*À venir...*
+### Langages de Programmation
+- C
+- HTML
+- CSS
+- JavaScript
+- Java
+- Python
+- PHP
+
+### Frameworks et Technologies
+- JEE (Java Enterprise Edition)
+- Jenkins (Intégration Continue)
+- Flutter (Développement Mobile)
+- Figma (Design UI/UX)
+
+### Autres Compétences
+- Entrepreneuriat
+- Réseaux Informatiques
 
 ## Hi there 👋
 
