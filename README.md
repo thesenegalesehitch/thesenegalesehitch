@@ -1,3 +1,7 @@
+# Alexandre Albert Ndour
+
+Bienvenue sur mon profil GitHub ! Je suis un développeur passionné originaire du Sénégal, spécialisé dans la création de solutions innovantes et efficaces.
+
 ## Hi there 👋
 
 <!--
