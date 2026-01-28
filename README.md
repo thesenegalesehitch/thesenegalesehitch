@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alexandre Albert Ndour</h1>
-<h3 align="center">A passionate back-end developer from Senegal 🇸🇳</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Alexandre+Albert+Ndour;A+passionate+back-end+developer;From+Senegal+%F0%9F%87%B8%F0%9F%87%B3" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thesenegalesehitch&label=Profile%20views&color=0e75b6&style=flat" alt="thesenegalesehitch" />
@@ -55,6 +56,18 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesenegalesehitch&show_icons=true&locale=en&layout=compact&theme=radical" alt="thesenegalesehitch" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesenegalesehitch&show_icons=true&locale=en&theme=radical" alt="thesenegalesehitch" /></p>
+
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesenegalesehitch&theme=radical" alt="thesenegalesehitch" /></a> </p>
+
+## 🔥 Streak Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesenegalesehitch&theme=radical" alt="thesenegalesehitch" /></p>
+
+## 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesenegalesehitch&theme=radical" />
+
+## 💬 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 ## ⚡ Fun fact:
 - Je suis passionné par l'innovation et l'apprentissage continu ! 🚀
