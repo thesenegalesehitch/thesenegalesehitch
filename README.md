@@ -35,6 +35,9 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur back-end passionné or
 - Entrepreneuriat
 - Réseaux Informatiques
 
+## Centres d'Intérêt
+- Hacking Éthique (Gray Hat, à des fins éducatives uniquement)
+
 ## Hi there 👋
 
 <!--
