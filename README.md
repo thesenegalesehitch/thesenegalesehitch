@@ -52,6 +52,12 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur back-end passionné or
 - Smart Contracts
 - Automatisation
 
+## Statistiques GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thesenegalesehitch&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesenegalesehitch&layout=compact&theme=radical)
+
 ## Hi there 👋
 
 <!--
