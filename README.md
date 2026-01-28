@@ -7,6 +7,13 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné originaire 
 - **Email**: [ndouralexandre09@gmail.com](mailto:ndouralexandre09@gmail.com)
 - **WhatsApp**: +221 76 542 08 55
 
+## Réseaux Sociaux
+
+- **Instagram**: [@1lex__x0ndr3](https://www.instagram.com/1lex__x0ndr3?igsh=MTFweDZkaHJ3cjVxOQ%3D%3D&utm_source=qr)
+- **Snapchat**: [alexandre_nd0ur](https://www.snapchat.com/add/alexandre_nd0ur?share_id=lRBJXaQZQlyK6ILEJ8oIIA&locale=fr_SN)
+- **Twitter (X)**: [@ynw_221](https://x.com/ynw_221?s=21)
+- **LinkedIn**: [Alexandre Albert Ndour](https://www.linkedin.com/in/alexandre-albert-ndour-407b33340?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+
 ## Hi there 👋
 
 <!--
