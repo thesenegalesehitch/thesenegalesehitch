@@ -2,6 +2,11 @@
 
 Bienvenue sur mon profil GitHub ! Je suis un développeur passionné originaire du Sénégal, spécialisé dans la création de solutions innovantes et efficaces.
 
+## Contact
+
+- **Email**: [ndouralexandre09@gmail.com](mailto:ndouralexandre09@gmail.com)
+- **WhatsApp**: +221 76 542 08 55
+
 ## Hi there 👋
 
 <!--
