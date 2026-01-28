@@ -21,12 +21,22 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur back-end passionné or
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - Java
 - Python
 - PHP
 
 ### Frameworks et Technologies
 - JEE (Java Enterprise Edition)
+- Spring Boot
+- JHipster
+- Laravel
+- Django
+- Node.js
+- Express
+- Bootstrap
+- Angular
+- React
 - Jenkins (Intégration Continue)
 - Flutter (Développement Mobile)
 - Figma (Design UI/UX)
@@ -37,6 +47,10 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur back-end passionné or
 
 ## Centres d'Intérêt
 - Hacking Éthique (Gray Hat, à des fins éducatives uniquement)
+- Web3
+- Trading Crypto
+- Smart Contracts
+- Automatisation
 
 ## Hi there 👋
 
