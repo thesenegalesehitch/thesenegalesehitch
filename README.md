@@ -66,7 +66,10 @@
 ## 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesenegalesehitch&theme=radical" />
 
-## 💬 Random Dev Quote
+## 🐍 Snake Animation
+<img src="https://raw.githubusercontent.com/thesenegalesehitch/thesenegalesehitch/output/snake.svg" alt="Snake animation" />
+
+## � Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 ## ⚡ Fun fact:
