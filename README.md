@@ -14,6 +14,10 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné originaire 
 - **Twitter (X)**: [@ynw_221](https://x.com/ynw_221?s=21)
 - **LinkedIn**: [Alexandre Albert Ndour](https://www.linkedin.com/in/alexandre-albert-ndour-407b33340?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
+## Compétences
+
+*À venir...*
+
 ## Hi there 👋
 
 <!--
