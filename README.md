@@ -52,17 +52,6 @@
 - Smart Contracts
 - Automatisation
 
-## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesenegalesehitch&show_icons=true&locale=en&layout=compact&theme=radical" alt="thesenegalesehitch" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesenegalesehitch&show_icons=true&locale=en&theme=radical" alt="thesenegalesehitch" /></p>
-
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesenegalesehitch&theme=radical" alt="thesenegalesehitch" /></a> </p>
-
-## 🔥 Streak Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesenegalesehitch&theme=radical" alt="thesenegalesehitch" /></p>
-
 ## 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesenegalesehitch&theme=radical" />
 
