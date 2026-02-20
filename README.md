@@ -6,16 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=thesenegalesehitch&label=Profile%20views&color=0e75b6&style=flat" alt="thesenegalesehitch" />
 </p>
 
-## 🚀 Featured Projects
-<div align="center">
-  <a href="https://github.com/thesenegalesehitch/your-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thesenegalesehitch&repo=your-project&theme=radical" alt="Your Project" />
-  </a>
-  <a href="https://github.com/thesenegalesehitch/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thesenegalesehitch&repo=another-project&theme=radical" alt="Another Project" />
-  </a>
-</div>
-
 ## 🛠️ Core Skills:
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -25,17 +15,6 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
-
-## 💻 Other Skills:
-- Entrepreneuriat
-- Réseaux Informatiques
-
-## 🎯 Interests:
-- Hacking Éthique (Gray Hat, à des fins éducatives uniquement)
-- Web3
-- Trading Crypto
-- Smart Contracts
-- Automatisation
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -48,9 +27,3 @@
 
 ## ⚡ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-## 🐍 GitHub Snake Animation
-<img src="https://github.com/thesenegalesehitch/thesenegalesehitch/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-
-## ⚡ Fun fact:
-- Je suis passionné par l'innovation et l'apprentissage continu ! 🚀
